@@ -4,3 +4,9 @@
 ZCZC  W00  17 L03 Github related
 ZCZC  W00  10 L01 SCELE related
 ZCZC  W00  100 L02 Zoom related
+ZCZC  W01  100 LO2 Synchronous Kelas
+ZCZC  W01  150 LO5 Mencari info virtualization dan scripting
+ZCZC  WO1  120 L11 Assignment #1 Create or Import Guest
+ZCZC  W01  40 L12 Assignment #2 GSGS and Read
+ZCZC  W01  40 L13 Assignment #3 Learn/Try Essential Command
+ZCZC  W01  30 L14 Assignment #4 
