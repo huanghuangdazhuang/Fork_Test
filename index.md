@@ -1,5 +1,10 @@
-# Operating Systems 2021-1
-### [Home](index)  |  [W01](w01) |  [Log](TXT/mylog.txt)  |  [GitHub](https://github.com/gilangcy/os211)
-## About
-Name  : Gilang Catur Yudishtira | Kelas : A 
-### Repository berkaitan OS 211 
+---
+layout: "layout"
+---
+
+Hallo!
+
+This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
+
+Qapla, Jolan Tru!<br>[====](GitHubPages/)[======](REPORT/00/)
+
