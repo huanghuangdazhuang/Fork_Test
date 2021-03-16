@@ -23,4 +23,4 @@ ZCZC  W02  20 L01 Doing Pop Quiz in Scele
 ZCZC  W02  45 L23 Check Discord for Information
 ZCZC  W02  50 L09 Asking Asdos For Error
 ZCZC  W02  90 L05 GSGS For Security, Public Key, Permission in Linux
-ZCZC  W02  30 L23 Doing Pop Quiz in Scele
+ZCZC  W02  30 L23 Doing Pop Quiz in Discord
