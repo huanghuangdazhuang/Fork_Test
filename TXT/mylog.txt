@@ -17,9 +17,10 @@ ZCZC  W01  30 L16 Assignment #6 Update mylog.txt
 ZCZC  W01  60 L17 Assignment #7 Top 10 List
 ZCZC  W01  50 L18 Assignment #8 Bash Regex Sed and AWK
 ZCZC  W01  20 L09 Asking Asdos
-ZCZC  W02  140 L10 Do Assignment Generate GNUPG Key Pair etc.
+ZCZC  W02  150 L10 Do Assignment Generate GNUPG Key Pair etc.
 ZCZC  W02  100 L02 Monday Zoom
 ZCZC  W02  20 L01 Doing Pop Quiz in Scele
 ZCZC  W02  45 L23 Check Discord for Information
 ZCZC  W02  50 L09 Asking Asdos For Error
 ZCZC  W02  90 L05 GSGS For Security, Public Key, Permission in Linux
+ZCZC  W02  30 L23 Doing Pop Quiz in Scele
