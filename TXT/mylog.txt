@@ -30,3 +30,9 @@ ZCZC  W03  100 L02 Wednesday Zoom
 ZCZC  W03  20 L01 Doing Pop Quiz in Scele
 ZCZC  W03  50 L23 Check Discord for Information
 ZCZC  W03  40 L07 Doing Demo
+ZCZC  W04  90 L10 Do Assignment W04
+ZCZC  W04  90 L05 GSGS For Pointer, Shared File dll
+ZCZC  W04  100 L02 Wednesday Zoom
+ZCZC  W04  30 L23 Doing Pop Quiz in Discord
+ZCZC  W04  20 L23 Check Discord for Information
+ZCZC  W04  30 L07 Doing Demo
