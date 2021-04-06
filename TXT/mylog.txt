@@ -36,3 +36,10 @@ ZCZC  W04  100 L02 Wednesday Zoom
 ZCZC  W04  30 L23 Doing Pop Quiz in Discord
 ZCZC  W04  20 L23 Check Discord for Information
 ZCZC  W04  30 L07 Doing Demo
+ZCZC  W05  100 L02 Wednesday Zoom
+ZCZC  W05  50 L01 Doing Pop Quiz
+ZCZC  W05  30 L23 Doing pop quiz but late
+ZCZC  W05  20 L23 Check Discord for Information
+ZCZC  W05  20 L07 Demo
+ZCZC  W05  70 L05 GSGS Virtual Memory
+ZCZC  W05  80 L10 Do Assignment W05
