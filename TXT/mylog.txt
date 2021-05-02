@@ -47,3 +47,7 @@ ZCZC  W06  100 L02 Wednesday Zoom
 ZCZC  W06  30 L01 Doing Pop Quiz in Scele
 ZCZC  W06  120 L05 GSGS Concurrency, Multi Threading dll
 ZCZC  W06  40 L23 Check Discord for Information
+ZCZC  W07  100 L02 Monday Zoom
+ZCZC  W07  60 L01 Doing Pop Quiz in Scele
+ZCZC  W07  110 L05 GSGS About Semaphore, Mutex, Deadlock dll
+ZCZC  W07  45 L23 Check Discord for Information
