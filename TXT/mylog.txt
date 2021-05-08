@@ -51,3 +51,7 @@ ZCZC  W07  100 L02 Monday Zoom
 ZCZC  W07  60 L01 Doing Pop Quiz in Scele
 ZCZC  W07  110 L05 GSGS About Semaphore, Mutex, Deadlock dll
 ZCZC  W07  45 L23 Check Discord for Information
+ZCZC  W08  100 L02 Monday Zoom
+ZCZC  W08  70 L01 Doing Pop Quiz in Scele
+ZCZC  W08  200 L05 GSGS About Scheduling and LFS
+ZCZC  W08  40 L23 Check Discord for Information
